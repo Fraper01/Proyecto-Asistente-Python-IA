@@ -11,6 +11,7 @@ Características principales:
 - El modelo de IA actúa como un experto en programación de Python.
 - Un prompt bien estructurado guía a la IA para dar respuestas detalladas y útiles.
 - Muestra el streaming de la respuesta de la IA en tiempo real.
+- Elaboración por Francisco Javier Pérez, 2025
 """
 
 import os
